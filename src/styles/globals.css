@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* 以下为全局样式 */
+div {
+  border-radius: 10px;
+}
